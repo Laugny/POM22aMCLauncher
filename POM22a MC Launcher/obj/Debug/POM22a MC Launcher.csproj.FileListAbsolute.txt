@@ -1,0 +1,14 @@
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\bin\Debug\POM22a MC Launcher.exe.config
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\bin\Debug\POM22a MC Launcher.exe
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\bin\Debug\POM22a MC Launcher.pdb
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\obj\Debug\POM22a MC Launcher.csproj.AssemblyReference.cache
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\obj\Debug\POM22a MC Launcher.csproj.SuggestedBindingRedirects.cache
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\obj\Debug\POM22a_MC_Launcher.Form1.resources
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\obj\Debug\POM22a_MC_Launcher.Properties.Resources.resources
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\obj\Debug\POM22a MC Launcher.csproj.GenerateResource.cache
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\obj\Debug\POM22a MC Launcher.csproj.CoreCompileInputs.cache
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\obj\Debug\POM22a MC Launcher.exe
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\obj\Debug\POM22a MC Launcher.pdb
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\obj\Debug\POM22a MC Launcher.csproj.CopyComplete
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\bin\Debug\Newtonsoft.Json.xml
+Z:\vs daten\repos\POM22a MC Launcher\POM22a MC Launcher\obj\Debug\POM22a MC Launcher.csproj.Fody.CopyLocal.cache
