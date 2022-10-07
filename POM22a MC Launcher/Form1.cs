@@ -195,6 +195,7 @@ namespace POM22a_MC_Launcher
 
         private void btnStart_Click(object sender, EventArgs e)
         {
+            checkForUpdates(false);
             try
             {
                 Process.Start(MCPath);
