@@ -217,7 +217,7 @@ namespace POM22a_MC_Launcher
                 {
                     if (line.StartsWith("MINECRAFT_PATH:"))
                     {
-                        MCPath = line.Split(':')[1].ToString();
+                        MCPath = line.Split(':')[1].ToString() + ":" + line.Split(':')[2].ToString();
                     }
                 }
             }
